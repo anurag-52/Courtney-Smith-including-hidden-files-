@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4d91039734e61c582ca43073d8761c0e2244d971 ABC <abchome@ABCs-MacBook-Air.local> 1755512152 +0530	commit (initial): Initial project commit
+4d91039734e61c582ca43073d8761c0e2244d971 0fb41832072bc1caef78d32251c0dfe4091ac3c9 ABC <abchome@ABCs-MacBook-Air.local> 1755513009 +0530	commit: new commit
+0fb41832072bc1caef78d32251c0dfe4091ac3c9 0fb41832072bc1caef78d32251c0dfe4091ac3c9 ABC <abchome@ABCs-MacBook-Air.local> 1755513218 +0530	Branch: renamed refs/heads/main to refs/heads/main
+0fb41832072bc1caef78d32251c0dfe4091ac3c9 0fb41832072bc1caef78d32251c0dfe4091ac3c9 ABC <abchome@ABCs-MacBook-Air.local> 1755513737 +0530	Branch: renamed refs/heads/main to refs/heads/main

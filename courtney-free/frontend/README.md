@@ -1,0 +1,1 @@
+Minimal UI to manage watchlist and emails. Set VITE_API_URL to your backend URL.
